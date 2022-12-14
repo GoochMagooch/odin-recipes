@@ -1,0 +1,9 @@
+* {
+    background-color: grey;
+}
+
+h1,
+h2,
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
