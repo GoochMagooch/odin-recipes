@@ -8,6 +8,10 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.recipe-list {
+    padding-left: 0pt;
+}
+
 .recipe-list li {
     list-style: none;
 }
