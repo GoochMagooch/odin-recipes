@@ -15,3 +15,8 @@ p {
 .recipe-list a {
     color: inherit;
 }
+
+.utensils {
+    width: 150px;
+    height: 200px;
+}
